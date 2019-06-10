@@ -1,0 +1,38 @@
+body
+{
+	font-family:Algerian;
+	color: white;
+	 
+}
+.div
+{
+ border: 5px solid red;
+ height: 550px;
+ width: 515px;
+ position: relative;
+ left: 550px;
+ top: 150px; 
+ border-radius: 20px 20px 20px 20px;	
+}
+.class
+{
+	border: 5px solid red;
+	height: 51px;
+	width: 250px;
+	font-size: 30px;
+	background-color: blue;
+}
+.result
+{
+	border:5px solid rgb(0,255,64);
+	height: 540px;
+	width: 245px;
+	margin-left: 260px;
+	 margin-top: -550px;
+	 border-radius: 0px 20px 20px 0px;
+}
+.auto
+{
+	border: 5px solid rgb(0,255,64);
+	height: 50px;
+}
